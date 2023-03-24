@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:twosensor/pedometer_app_screen.dart';
+import 'package:twosensor/Pedometer/pedometer_app_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -35,4 +35,5 @@ class MyApp extends StatelessWidget {
 
 // https://medium.com/@stefanodecillis/flutter-using-google-maps-and-drawing-routes-100829419faf
 // https://pub.dev/packages/pedometer
+// https://medium.com/flutter-community/flutter-bloc-for-beginners-839e22adb9f5
 
